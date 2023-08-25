@@ -16,7 +16,7 @@ h1 {
   color: skyblue;
 }
 .pink {
-  color: pink;
+  color: rgb(255, 192, 203);
 }
 .bold p {
   font-weight: bold;
